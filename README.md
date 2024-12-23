@@ -1,6 +1,6 @@
 # Football Video Analysis
 
-A computer vision project aimed at analyzing football videos to detect and track players, classify teams, recognize jersey numbers, identify key events, and segment the football pitch. This repository demonstrates the integration of YOLO-based object detection models for comprehensive football analytics.
+A computer vision project aimed at analyzing football videos to detect and track players, classify teams, recognize jersey numbers, identify key events, and segment the football pitch. This repository demonstrates the integration of YOLO-based object detection models for comprehensive football analytics. In collaboration with [Kwiz-boss](https://github.com/Kwiz-boss) we accomplished this task and are open to discussion and cooperation to make it more comprehensive.
 
 ---
 
