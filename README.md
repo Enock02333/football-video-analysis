@@ -65,6 +65,45 @@ Each subfolder contains:
 - **Format:** YOLO-compatible.
 - **Classes:** Specific to each task (e.g., players, teams, jersey numbers).
 
+Downloads
+Football Pitch Segmentation
+[Download Dataset](https://universe.roboflow.com/ds/y8ZJAdgRzN?key=YhHMuw2s9B)
+
+```bash
+curl -L "https://universe.roboflow.com/ds/y8ZJAdgRzN?key=YhHMuw2s9B" > roboflow.zip
+unzip roboflow.zip
+rm roboflow.zip
+```
+
+Key Moment Detection
+[Download Dataset](https://universe.roboflow.com/ds/ON1ePU61vi?key=BWSl2KakWN)
+
+```bash
+curl -L "https://universe.roboflow.com/ds/ON1ePU61vi?key=BWSl2KakWN" > roboflow.zip
+unzip roboflow.zip
+rm roboflow.zip
+```
+
+Football Player Detection
+[Download Dataset](https://universe.roboflow.com/ds/ITjZ4Yf5sH?key=JS53Uozho3)
+
+```bash
+curl -L "https://universe.roboflow.com/ds/ITjZ4Yf5sH?key=JS53Uozho3" > roboflow.zip
+unzip roboflow.zip
+rm roboflow.zip
+```
+
+Football Pitch Keypoints Detection
+Download Dataset (Kaggle)
+
+```python
+import kagglehub
+
+Download latest version
+path = kagglehub.dataset_download("danielmachniak/football-pitch-keypoints-detection")
+
+print("Path to dataset files:", path)
+```
 ---
 
 ## Project Structure
